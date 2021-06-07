@@ -1,9 +1,10 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   kfc_list = {
-    "bucket"
+    "fried chicken" => "10 pieces"
+    "baked chicken" => "8 pieces"
+    "super crispy chicken" => "5 pieces"
   }
-
 end
 
 
